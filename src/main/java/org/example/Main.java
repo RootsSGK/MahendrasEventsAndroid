@@ -67,7 +67,7 @@ public class Main {
             int searchPathColumnIndex = 41;
             int verticalRankColumnIndex = 42;
             int filterTypeColumnIndex = 43;
-
+           // int filterTypeColumnIndex = 43;
             int platformSessionIdColumnIndex = 44;
             int schoolIdColumnIndex = 45;
             int slotIdColumnIndex = 46;
